@@ -6,8 +6,9 @@ import (
 	"go-api-native/routes"
 	"net/http"
 
-	"github.com/gorilla/mux"
 	log "github.com/sirupsen/logrus"
+
+	"github.com/gorilla/mux"
 )
 
 func main() {
